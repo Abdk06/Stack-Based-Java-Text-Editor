@@ -12,7 +12,7 @@ Here is a sample for the actions.txt file:
 
 ```
 insert Hello 0
-insert,World5
+insert,World 5
 delete 5 7
 undo
 replace Java 75
